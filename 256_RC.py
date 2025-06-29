@@ -257,25 +257,6 @@ def monitor_directory(path_to_watch):
             with open(file, 'r') as f:
                 seen_files[file] = f.read()
 
-    while True:
-        if iteration_count >= 1:
-            print("One iteration completed.")
-            while True:
-                response = input("Чи розпочати нову ітерацію пошуку Y / N: ").strip().upper()
-                if response == "Y":
-                    print("Starting a new iteration...")
-                    iteration_count = 0  # Reset iteration count for a new iteration
-                    break
-                elif response == "N":
-                    print("Exiting program.")
-                    input("Press Enter to exit...")
-                    return
-                else:
-                    print("Invalid response. Please enter Y or N.")
-
-        if not process_blueprint():
-            break
-
         current_files = {}
         try:
             for file in path_to_watch.rglob('blueprint.json'):
