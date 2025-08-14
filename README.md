@@ -16,9 +16,9 @@ Connection group 2:
 > 0A1D5A - 560202
 
 The color of the "repeater":
-
-222222 [vanilla black] 
 *Repeater or antena it's 255 logic gates painted black on your creation.
+222222 [vanilla black] 
+
 
 These colors can NOT be used to color any objects capable of being connected on creation, except for those that will be used to transmit a signal.
 **The program also creates backups of the creation in the certain creation folder.**
