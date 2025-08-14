@@ -1,5 +1,5 @@
 # 256 RC glitch
-The connection is divided into 2 groups, a total of 8 gates can be used as input and output signals, the visual connection is described in the PNG file in the repository.
+The connection is divided into 2 groups, a total of 8 gates can be used as input and output signals, the visual connection is described in the PNG file in the repository. Watch this if you want to see how to recreate this glitch without the program and with it: https://www.reddit.com/r/ScrapMechanic/comments/1mpz53p/best_rc_glitch_for_your_creations/
 
 Connection group 1:
 [Vanilla red gradient - vanilla blue gradient]
@@ -28,3 +28,5 @@ This glitch is based on the Scrap Mechanic game mechanic, which does not allow f
 The code is almost entirely written through artificial intelligence like Grok3 using ChatGPT and Deepseek for side.
 
 HONDA player was the first who discovered this glitch and made the first version of program. I only one who rewrote the code and posted it. 
+
+
