@@ -26,3 +26,5 @@ These colors can NOT be used to color any objects capable of being connected on 
 This glitch is based on the Scrap Mechanic game mechanic, which does not allow for 256 to be connected. But you can do it by hand, for this you need to connect 1 gate (input) to the “repeater”, i.e. to the other 256 gates, so you will get the max limit connected and then, by hand through Bingo Tool mod or Blueprint Editor through the notepad you need to add the ID of the output gate as an additional connection of the input gate, so you will get the same result.
 
 The code is almost entirely written through artificial intelligence like Grok3 using ChatGPT and Deepseek for side.
+
+HONDA player was the first who discovered this glitch and made the first version of program. I only one who rewrote the code and posted it. 
